@@ -17,4 +17,7 @@ The O/P of this should be in the format:
 5. Availability
 6. Listing place
 
+Something like this:
+![hjkl](https://user-images.githubusercontent.com/46697997/121806171-69e3c080-cc6c-11eb-8962-54f73481457a.png)
+
 This is a crude way to do this, so drop any suggestions if any and i'll try to add them.
