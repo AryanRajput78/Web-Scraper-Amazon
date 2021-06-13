@@ -1,5 +1,5 @@
 # Web-Scraper-Amazon
-This is a simple Amazon Fresh web scraper that finds and prints the products on the home page.
+This is a simple Amazon Fresh web scraper that finds and prints the products present on the home page.
 
 The Amazon Fresh home page looks like this:
 ![asdf](https://user-images.githubusercontent.com/46697997/121805811-6bac8480-cc6a-11eb-8e59-a8ea774a2040.png)
