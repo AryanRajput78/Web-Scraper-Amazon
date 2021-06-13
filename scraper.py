@@ -2,7 +2,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
 import pandas as pd
-import csv
 
 #Set-up all the elements of opening and closing the webpage.
 driver = webdriver.Chrome(executable_path='C:\\Users\\ARYAN\\Downloads\\chromedriver')
